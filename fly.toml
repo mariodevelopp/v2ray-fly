@@ -1,0 +1,7 @@
+app = "v2ray-server"
+
+[build]
+
+[http_service]
+  internal_port = 8080
+  force_https = false
